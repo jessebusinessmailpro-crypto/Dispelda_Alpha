@@ -1,0 +1,13 @@
+flask
+gunicorn
+google-cloud-bigquery
+pydantic
+fastapi
+uvicorn
+python-multipart
+pandas
+db-dtypes
+xgboost
+scikit-learn
+numpy
+openai
