@@ -5,7 +5,7 @@ import os
 # On s'assure qu'on peut importer les modules du backend
 sys.path.append(os.getcwd())
 
-from backend.engine import AlphaEngine
+from backend.test_final_boss import AlphaEngine
 from backend.store import SQLiteStore
 from backend.ai_agent import StrategicAnalyst
 
